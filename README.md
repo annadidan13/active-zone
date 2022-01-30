@@ -1,2 +1,2 @@
 # active-zone
-The project is about the active rest in Kherson
+This repository is for the project Active Zone. It is about the active rest in Kherson.
