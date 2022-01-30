@@ -1,2 +1,2 @@
 # active-zone
-Project about the active rest in Kherson
+The project is about the active rest in Kherson
